@@ -1,0 +1,7 @@
+n121,m121=input().split()
+n221,m221=input().split()
+n121=int(n121)
+m121=int(m121)
+n221=int(n221)
+m221=int(m221)
+print(abs(n121-n221),abs(m121-m221))
