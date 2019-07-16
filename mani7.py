@@ -1,3 +1,3 @@
 e=int(input())
-f=int((e*(e+1))/2)
-print(f)
+for i in range(e):
+	print('Hello')
