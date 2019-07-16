@@ -1,9 +1,11 @@
-mani=int(input())
-if(mani%4==0)and(mani%100!=0):
-  print("yes")
-elif(mani%400==0):
-  print("yes")
-elif(mani%100==0):
-  print("no")
+e=int(input())
+if (e%100==0):
+	if(e%400==0):
+		print('yes')
+	else:
+		print('no')
 else:
-  print("no")
+	if (e%4==0):
+		print('yes')
+	else:
+		print('no')
