@@ -1,0 +1,9 @@
+mani=int(input())
+if(mani%4==0)and(mani%100!=0):
+  print("yes")
+elif(mani%400==0):
+  print("yes")
+elif(mani%100==0):
+  print("no")
+else:
+  print("no")
