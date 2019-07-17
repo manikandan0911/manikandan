@@ -1,2 +1,2 @@
-m=(input())
-print(len(m))
+mani1=input()
+print(len(mani1))
