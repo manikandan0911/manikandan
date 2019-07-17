@@ -1,2 +1,2 @@
-mani1=int(input())
-print(mani1+1)
+m = int(input())
+print(m+1)
