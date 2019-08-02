@@ -1,2 +1,6 @@
-mani23=map(int,input().split())
-print(min(mani23))
+#include<stdio.h>
+int main()
+{
+while(!printf("hello world")){}
+return 0;
+}
