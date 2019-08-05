@@ -1,2 +1,2 @@
 m,n,o=list(map(int,input().split()))
-print(m*n%c)
+print(m*n%o)
