@@ -3,7 +3,7 @@ m=[]
 for i in n:
     if i not in m:
         m.append(i)
-if(n==a):
+if(n==m):
     print("Yes")
 else:
     print("No")
