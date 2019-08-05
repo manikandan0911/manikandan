@@ -1,5 +1,5 @@
-m,=int(input())
-if m%2==0:
-    print(m//2)
+mani,=int(input())
+if mani%2==0:
+    print(mani//2)
 else:
-    print(m)
+    print(mani)
