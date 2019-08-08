@@ -1,9 +1,3 @@
-mani,k=map(str,input().split(" "))
-count=0
-for i in range(0,len(mani)):
-	if mani[i]!=k[i]:
-		count=count+1
-if count>1:
-	print("no")
-else:
-	print("yes")
+n=input()
+x=n[::-1]
+print(x)
