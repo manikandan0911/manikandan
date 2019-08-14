@@ -1,4 +1,4 @@
-m=int(input())
+mani=int(input())
 n=input()
 o=["a","e","i","o","u","A","E","I","O","U"]
 f=""
